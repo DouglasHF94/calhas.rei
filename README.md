@@ -4,7 +4,7 @@ Este site foi criado para um cliente que trabalha com calha(chapamento residenci
 
 ## Preview
 
-<img src="https://github.com/DouglasHF94/Bikecraft/blob/master/fotobikecraft.png" height="500"/>
+<img src="https://github.com/DouglasHF94/calhas.rei/blob/master/imagens/pageInicial.png" height="500"/>
 
 ## Live link:
 
