@@ -254,6 +254,14 @@ a {
    padding: 20px;
   }
 
+  .cont-footer {
+    background-color: var(--cor-1);
+    padding: 20px;
+    height: 200px;
+    display: grid;
+    grid-template-columns: 1fr ;
+  }
+
 
 
 
