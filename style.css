@@ -15,6 +15,11 @@ li {
   list-style-type: none;
 }
 
+a {
+  list-style-type: none;
+  text-decoration: none;
+}
+
 /* inicio */
 
 .titulo {
@@ -143,13 +148,35 @@ li {
   height: 60px;
  }
 
+ /* Footer */
 
+.cont-footer {
+  background-color: var(--cor-1);
+  padding: 20px;
+  height: 200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
 
+.cont-contatos {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+}
 
+.numero {
+  font-size: 25px;
+  color: var(--cor-0);
+  font-weight: bolder;
+}
 
-
-
-
+.fc {
+  font-size: 25px;
+  color: var(--cor-0);
+  font-weight: bolder;
+}
 
 
 
