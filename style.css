@@ -132,7 +132,7 @@ body {
   .img-menu {
     z-index: 0;
     position: relative;
-    width: auto;
+    width: 450px;
     height: 300px;
   }
 
