@@ -108,14 +108,15 @@ body {
 
   .titulo {
     font-size: 40px;
-    left: 50%;
-    top: 200px;
+    left: 20%;
+    top: 280px;
   }
 
   .container-apresentacao {
     text-align: center;
     max-width: 450px;
     margin: auto;
+    padding: 0px 10px 0px 10px;
   }
 
   .texto-apresentacao {
